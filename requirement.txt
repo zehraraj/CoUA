@@ -1,3 +1,6 @@
+gspread
+google-auth
+google-auth-oauthlib
 pandas==1.5.3
 st-gsheets-connection==0.0.3
 streamlit==1.30.0
